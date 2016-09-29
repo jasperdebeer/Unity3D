@@ -10,5 +10,8 @@ Daarnaast kan de speler zijn eigen zwaartekrachtrichting, maar ook die van objec
 ![Alt Text](https://github.com/jasperdebeer/Unity3D/blob/master/Spawnkings%20gravity.gif)
 
 
+# Sogo3D
 
+Dit is simpelweg vier op een rij in 3D. Dit spel heb ik gemaakt om multiplayer networking met Unity (UNET) te testen.
 
+![Alt Text](https://github.com/jasperdebeer/Unity3D/blob/master/Sogo3D.gif)

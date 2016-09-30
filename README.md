@@ -1,6 +1,6 @@
 # Spawnkings
 
-Spawnkings is een 2d platform puzzler in ontwikkeling waarbij de speler zijn dood handig moet inzetten om verder te komen.
+Spawnkings is een 2d puzzle platformer in ontwikkeling waarbij de speler zijn dood handig moet inzetten om verder te komen.
 
 ![Alt Text](https://github.com/jasperdebeer/Unity3D/blob/master/Spawnkings%20respawn.gif)
 
